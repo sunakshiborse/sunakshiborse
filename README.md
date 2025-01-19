@@ -54,8 +54,7 @@ Hi there! 👋 I'm **Sunakshi Borse**, an aspiring Python developer with a stron
 
 ## **📈 GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunakshi17&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunakshi17&layout=compact&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sunakshiborse?cardType=github&theme=synthwave&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
