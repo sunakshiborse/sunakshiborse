@@ -1,7 +1,6 @@
 # **🌟 Welcome to My GitHub Profile!**
 
 ![Profile Banner](https://github.com/sunakshiborse/sunakshiborse/blob/main/Sunakshi%20README.png?raw=true)
-
 Hi there! 👋 I'm **Sunakshi Borse**, an aspiring Python developer with a strong foundation in programming, data analysis, and machine learning. I’m passionate about leveraging technology to solve real-world problems and crafting impactful solutions.
 
 ---
